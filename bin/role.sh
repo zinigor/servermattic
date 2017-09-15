@@ -140,7 +140,7 @@ SP=" "
                 fi
             done
           else
-            echo "invalid role"
+            echo "invalid role $2"
         fi
       else
         echo "please specify a role"
