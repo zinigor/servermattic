@@ -20,4 +20,3 @@ datadir     	= /var/lib/mysql1-0
 
 server-id       = 1
 log-bin         = /var/log/mysql1-0/mysql-bin.log
-read-only
