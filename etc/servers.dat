@@ -2,3 +2,7 @@
 #
 # Server in Dallas, Texas
 XEN-103:YVR:192.0.95.204:zinigor.gm.a8c.com:192.0.95.204:nginx-base,nginx-php,mysql-base:0:
+gm:YVR:192.0.95.216:web1.g3.gm.a8c.com:192.0.95.216:base,nginx-base,nginx-php,wordpress,wordpress-lb:0:
+gm:YVR:192.0.95.225:web2.g3.gm.a8c.com:192.0.95.225:base,nginx-base,nginx-php,wordpress,wordpress-lb:0:
+gm:YVR:192.0.95.217:db1.g3.gm.a8c.com:192.0.95.217:base,mysql-base:0:
+gm:YVR:192.0.95.218:db2.g3.gm.a8c.com:192.0.95.218:base,mysql-base:0:
